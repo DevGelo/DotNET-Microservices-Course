@@ -11,8 +11,8 @@ dotnet run
 ```
 
 ### Run the API locally
-https://localhost:7029/swagger/index.html
-http://localhost:5041/swagger/index.html
+- https://localhost:7029/swagger/index.html
+- http://localhost:5041/swagger/index.html
 
 ### Tasks
 - [ ] PART 1 - INTRODUCTION & Theory
