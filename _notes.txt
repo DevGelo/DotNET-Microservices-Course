@@ -1,0 +1,26 @@
+cmd: code .
+
+vs code: terminal Ctrl + `
+
+terminal: ls
+
+dotnet --version
+
+terminal: clear
+
+dotnet new webapi -n PlatformService
+code -r PlatformService
+
+dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.InMemory
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+code snippet: prop + TAB
+short-key: CTRL + .
+
+code snippet: ctor + TAB
+
+dotnet build 
+
