@@ -1,22 +1,18 @@
 # DotNET-Microservices-Course
 
-
-###Tutorial
+### Tutorial
 .NET Microservices – Full Course by Les Jackson
 https://www.youtube.com/watch?v=DgVjEo3OGBI
 
-###Build
+### Build
 dotnet build
 dotnet run
 
-
-###Run
+### Run
 https://localhost:7029/swagger/index.html
 http://localhost:5041/swagger/index.html
 
-
-
-###Tasks
+### Tasks
 - [ ] PART 1 - INTRODUCTION & Theory
 - [x] PART 2 - BUILDING THE FIRST SERVICE
 - [ ] PART 3 - DOCKER & KUBERNETES
